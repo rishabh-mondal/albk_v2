@@ -1,0 +1,8 @@
+path: "/home/rishabh.mondal/Brick-Kilns-project/albk_rishabh/YOLO_train_val_test_data/"
+train:  "all_states/images"
+val:  "/home/rishabh.mondal/Brick-Kilns-project/albk_rishabh/YOLO_train_val_test_data/test/images"
+test:  "/home/rishabh.mondal/Brick-Kilns-project/albk_rishabh/YOLO_DATA/hariana100"
+
+names:
+  0: 'zigzag'
+  1: "fcbk"

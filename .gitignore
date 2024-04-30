@@ -1,3 +1,4 @@
 YOLO_LOCALIZATION/runs
 YOLO_LOCALIZATION/yolov8m.pt
 YOLO_LOCALIZATION/yolov8n.pt
+yolo_tp
